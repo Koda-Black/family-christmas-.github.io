@@ -19,4 +19,4 @@ The main function of the site is to share the meaning of Christmas with friends.
 
 ## 📁 Project access
 
-You can view the hosted page by clicking [here](https://koda-black.github.io/chimi-christmas-website.github.io/).
+You can view the hosted page by clicking [here](https://koda-black.github.io/family-christmas-.github.io/).
